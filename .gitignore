@@ -16,3 +16,7 @@ __pycache__/
 .faiss
 
 models/
+
+*ghana_cases_ghalii.csv
+
+*scraper.py
