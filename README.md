@@ -1,6 +1,28 @@
-# Ghana Legal AI
+# Legal Research AI
 
-A Ghanaian legal research assistant built with Python, FAISS, Sentence Transformers, and a local language model.
+🚧 Work in Progress
+
+This project is currently under active development.
+
+The goal is to build an AI-powered legal research assistant capable of crawling  case law sites, creating a searchable legal knowledge base, and answering legal research questions using retrieval-augmented generation (RAG).
+
+Current functionality includes:
+- Case law crawling and dataset generation
+- Semantic search using FAISS
+- Retrieval-based legal question answering
+- Local LLM integration
+- Streamlit web interface
+
+Planned improvements:
+- Improved answer quality and legal reasoning
+- Better case extraction and document chunking
+- Advanced citation handling
+- Conversational memory
+- Multi-jurisdiction support
+- Cloud deployment
+- Production-grade legal research workflows
+
+⚠️ This project is a research and educational tool. It does not constitute legal advice.
 
 ## Setup
 
